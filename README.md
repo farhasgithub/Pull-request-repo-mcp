@@ -1,2 +1,3 @@
 # Pull-request-repo-mcp
-Repository created using MCP server and MCP Rockss!!
+
+This repository was created using the MCP server and MCP Rockss!!
